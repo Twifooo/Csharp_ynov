@@ -1,0 +1,5 @@
+C:\Users\twifo\Desktop\Ynov\Csharp\MeteoApp\obj\Debug\net5.0-windows\MeteoApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\twifo\Desktop\Ynov\Csharp\MeteoApp\obj\Debug\net5.0-windows\MeteoApp.AssemblyInfoInputs.cache
+C:\Users\twifo\Desktop\Ynov\Csharp\MeteoApp\obj\Debug\net5.0-windows\MeteoApp.AssemblyInfo.cs
+C:\Users\twifo\Desktop\Ynov\Csharp\MeteoApp\obj\Debug\net5.0-windows\MeteoApp.csproj.CoreCompileInputs.cache
+C:\Users\twifo\Desktop\Ynov\Csharp\MeteoApp\obj\Debug\net5.0-windows\MeteoApp.sourcelink.json
